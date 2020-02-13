@@ -45,3 +45,4 @@ def detect_faces(emotion):
 
 for emotion in emotions:
 			detect_faces(emotion)
+		
