@@ -1,5 +1,7 @@
 # CMP304-AI-Human-Emotion-Recognition
-Tensorflow &amp; Python code used to create a convolutional neural network for the use of human emotion recognition.
+Python code used to create a convolutional neural network for the use of human emotion recognition. 
+
+Requires OpenCV 2, NumPy & TensorFlow.
 
 Requires images for each of the 7 emotions, place them in 'arranged_images' in relevant emotion folder.
 'preprocessing.py' can the be run.
